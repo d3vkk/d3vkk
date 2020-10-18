@@ -6,7 +6,7 @@ https://namegrab.netlify.app
 
 https://randomtodos.netlify.app
 
-https://transcountries.herokuapp.com
+https://transcountriesapi.herokuapp.com
 
 <!--
 **d3vkk/d3vkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
