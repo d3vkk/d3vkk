@@ -6,6 +6,10 @@ https://namegrab.netlify.app
 
 https://randomtodos.netlify.app
 
+https://axela.netlify.app
+
+https://mbatanehighschool.netlify.app
+
 https://transcountriesapi.herokuapp.com
 
 <!--
