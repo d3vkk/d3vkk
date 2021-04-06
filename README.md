@@ -10,6 +10,8 @@ https://axela.netlify.app
 
 https://mbatanehighschool.netlify.app
 
+https://ladiesoflux.netlify.app
+
 https://transcountriesapi.herokuapp.com
 
 <!--
