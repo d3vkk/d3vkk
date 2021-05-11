@@ -1,4 +1,4 @@
-![Hi there 👋, I Build Fast, Elegant Websites.⚡](https://github.com/d3vkk/d3vkk/blob/master/message.gif)
+![Hi there 👋](https://github.com/d3vkk/d3vkk/blob/master/msg.gif)
 
 #### Quick links
 
