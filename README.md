@@ -2,7 +2,7 @@
 
 I am Donald, a highly focused software engineer and full stack web developer.
 
-I've been creating websites since 2018. Making websites is _my passion._
+I've been creating websites consistently since 2018. Making websites is _my passion._
 
 https://donaldk.dev
 
