@@ -7,6 +7,7 @@ I've been creating websites since 2018. Making websites is _my passion._
 https://donaldk.dev
 
 
+<!--
 #### Quick links
 
 https://namegrab.netlify.app
@@ -20,6 +21,7 @@ https://transcountriesapi.herokuapp.com
 https://ladiesoflux.netlify.app
 
 https://axela.netlify.app
+-->
 
 <!--
 **d3vkk/d3vkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
