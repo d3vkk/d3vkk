@@ -1,5 +1,12 @@
 ![Hi there 👋](https://github.com/d3vkk/d3vkk/blob/master/msg.gif)
 
+I am Donald, a highly focused software engineer and full stack web developer.
+
+I've been creating websites since 2018. Making websites is _my passion._
+
+https://donaldk.dev
+
+
 #### Quick links
 
 https://namegrab.netlify.app
